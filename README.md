@@ -1,4 +1,4 @@
-# 🇵🇭 Philippine Earthquake Research (2016–2025): Analysis & Magnitude Prediction
+# Philippine Earthquake Research (2016–2025): Analysis & Magnitude Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
